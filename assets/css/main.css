@@ -637,6 +637,12 @@ input, select, textarea {
 	.icon .fa-bicycle{
 		font-size: 3rem;
 		padding-top: 20px;
+
+	}
+	@media screen and (max-width: 735px){
+		.icon .fa-bicycle {
+			padding-top: 13px;
+		}
 	}
 
 /* Image */
